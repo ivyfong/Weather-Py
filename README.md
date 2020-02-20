@@ -7,7 +7,7 @@ The objective of this project is to analyze how the weather changes as you appro
 1. Python -  Matplotlib, Pandas, Numpy, Citipy
 2. OpenWeatherMap API
 
-## **Screenshots:**
+## **Screenshots (Graphs):**
 ![graph1.png](images/graph1_max_temp.png)
 ![graph2.png](images/graph2_humidity.png)
 ![graph3.png](images/graph3_cloudiness.png)
