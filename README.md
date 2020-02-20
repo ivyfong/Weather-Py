@@ -8,7 +8,7 @@ The objective of this project is to analyze how the weather changes as you appro
 2. OpenWeatherMap API
 
 ## **Screenshots:**
-![graph1.png](City Latitude vs. Maximum Temperature.png)
-![graph2.png](City Latitude vs. Humidity.png)
-![graph3.png](City Latitude vs. Cloudiness.png)
-![graph4.png](City Latitude vs. Wind Speed.png)
+![graph1.png]("City Latitude vs. Maximum Temperature.png")
+![graph2.png]("City Latitude vs. Humidity.png")
+![graph3.png]("City Latitude vs. Cloudiness.png")
+![graph4.png]("City Latitude vs. Wind Speed.png")
