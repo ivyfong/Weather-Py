@@ -8,7 +8,7 @@ The objective of this project is to analyze how the weather changes as you appro
 2. OpenWeatherMap API
 
 ## **Screenshots:**
-![graph1.png]("graph1_max_temp.png")
-![graph2.png]("graph2_humidity.png")
-![graph3.png]("graph3_cloudiness.png")
-![graph4.png]("graph4_wind_speed.png")
+![graph1.png]("images/graph1_max_temp.png")
+![graph2.png]("images/graph2_humidity.png")
+![graph3.png]("images/graph3_cloudiness.png")
+![graph4.png]("images/graph4_wind_speed.png")
